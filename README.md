@@ -2,9 +2,8 @@
 
 ### BS Software Engineering Student | Aspiring Full-Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azfarx20s&label=Profile views&color=0e75b6&style=flat" alt="azfarx20s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azfarx20s" alt="azfarx20s" /></a> </p>
+
 
 - 🔭 I'm currently working on **CampusConnect — a university-focused web platform**
 
