@@ -2,8 +2,6 @@
 
 ### BS Software Engineering Student | Aspiring Full-Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azfarx20s&label=Profile views&color=0e75b6&style=flat" alt="azfarx20s" /> </p>
-
 - 🔭 I'm currently working on **CampusConnect — a university-focused web platform**
 
 - 🌱 I'm currently learning **Flutter, Dart, Web Development, Software Engineering**
